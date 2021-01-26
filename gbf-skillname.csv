@@ -1,0 +1,237 @@
+,,
+skillID,skillname,skillname_en
+1,ウェポンバースト,Full Arsenal
+2,レイジ,Rage
+3,ファランクス,Phalanx
+4,ドライブバースト,Overdrive Surge
+5,ヒールオール,Panacea
+6,オーラ,Grace
+7,エーテルブラスト,Aether Blast
+8,ファイア,Fire
+9,ブレイクアサシン,Crack Shot
+10,トレジャーハント,Bounty Hunter
+11,ディレイ,Stall
+12,エレメンタルフォース,Elemental Focus
+13,カウンター,Counter
+14,捨身の型,Taking Chances
+15,ライトウェイト,Quick Step
+16,アローレイン,Rain of Arrows
+17,オーヴァチュア,Overture
+18,チャームボイス,Angelic Voice
+19,リードドライブ,Drive It In
+20,デュアルインパルス,Double Trouble
+21,レイジII,Rage II
+22,アーマーブレイク,Armor Break
+23,ドライブバーストII,Overdrive Surge II
+24,センチュリオン,Centurion
+25,クリアオール,Clarity
+26,シャイニング,Blessing
+27,アイス,Freeze
+28,ブラインド,Blind
+29,トレジャーハントII,Bounty Hunter II
+30,トリックステップ,Tricky Moves
+31,エレメンタルフォースII,Elemental Focus II
+32,クイック,Quick Strike
+33,捨身の型II,Taking Chances II
+34,内功,Chi Channeler
+35,アローレインII,Rain of Arrows II
+36,ハードライン,Hard Line
+37,チャームボイスII,Angelic Voice II
+38,ミンストレルソング,Bard Song
+39,デュアルインパルスII,Double Trouble II
+40,パイルリベレーション,Battle Scar
+41,ウェポンバーストII,Full Arsenal II
+42,ランページ,Rampage
+43,レイジIII,Rage III
+44,ブレイブソウル,Brave Soul
+45,パワーレイズ,Power Raise
+46,ファランクスII,Phalanx II
+47,ドライブバーストIII,Overdrive Surge III
+48,かばう,Substitute
+49,リフレクション,Reflection
+50,テストゥド,Testudo
+51,ヒールオールII,Panacea II
+52,ディスペル,Dispel
+53,リヴァイヴ,Revive
+54,ベール,Veil
+55,ホワイトウォール,White Wall
+56,エーテルブラストII,Aether Blast II
+57,ヴェノム,Venom
+58,フォーカス,Laser Focus
+59,バウンス,Bounce
+60,チョーク,Choke
+61,ブレイクアサシンII,Crack Shot II
+62,トレジャーハントIII ,Bounty Hunter III
+63,デッドリーエイム,Lethal Aim
+64,ブレイクキープ,Extend Break
+65,フォーススナッチ,Force Snatch
+66,ディレイII,Stall II
+67,ミゼラブルミスト,Miserable Mist
+68,グラビティ,Gravity Wave
+69,クイックダウン,Quick Down
+70,ブラッドソード,Blood Sword
+71,カウンターII,Counter II
+72,闘気,Fighting Spirit
+73,羅喉阿修羅陣,Pandemonium
+74,練気,Spirit of Training
+75,一字構え,Horizontal Solace
+76,ライトウェイトII,Quick Step II
+77,アローレインIII ,Rain of Arrows III
+78,キルストリーク,Bullseye Run
+79,スタディエイム,Steady Aim
+80,チェンジ,Change
+81,オーヴァチュアII,Overture II
+82,ソウルピルファー,Soul Soloist
+83,ソング・オブ・グランデ,Sky Realm Song
+84,ひつじのうた,Sheep Song
+85,トレマーラウンド,Tremor Round
+86,リードドライブII,Drive It In II
+87,デュアルインパルスIII,Double Trouble III
+88,レゾナンスサージ,Resonating Surge
+89,ランドグリース,Randgrith
+90,エインフェリアル,Einherjar
+91,アナザーブレード,Blade Swap
+92,ツインサーキュラー,Twin Coil        
+93,ディストリーム,Decimate
+94,クロスガード,Cross Guard
+95,チェイスブレード,Chase Blade
+96,ウェポンバーストIII,Full Arsenal III
+97,レイジIV,Armor Break II
+98,アーマーブレイクII,Rage IV
+99,ランページII,Rampage II
+100,ウールヴヘジン,Ulfhedinn
+101,ファランクスIII,Phalanx III
+102,シールドワイア,Guardian
+103,ガーディアン,Centurion II
+104,センチュリオンII,Hardened Shield
+105,ヒールオールIII,Panacea III
+106,シャイニングII,Blessing II
+107,ディスペル・シージ,Dispel Deluge
+108,キュアーフェン,Peace of Mind
+109,エーテルブラストIII,Aether Blast III
+110,チェイサー,Dark Haze
+111,エーテルフラップ,Aether Bane
+112,ブラックヘイズ,Chaser
+113,レプリケーションキャスト,Resounding Chant
+114,ブレイクアサシンIII,Crack Shot III
+115,トレジャーハントIV,Bounty Hunter IV
+116,ホワイトスモーク,White Smoke
+117,ルピフリップ,Rupie Flip
+118,楼門五三桐,Spring's Gate
+119,ディレイIII,Stall III
+120,アップリフト,Uprising
+121,アンプレディクト,Unpredictable
+122,カオス,Chaos
+123,アブソーブ,Absorption
+124,ナイフハンド・ストライク,Knifehand Strike
+125,ファイティングスピリット,Ring Ruler
+126,マイクパフォーマンス,Mic Hype
+127,ツープラトン,Tag Team
+128,チャフリリース,Evasive Maneuvers
+129,タクティクスコマンド,Tactical Relocation
+130,ジャミング,Frequency Jam
+131,トワイライトゾーン,Twilight Zone
+132,レイショナルショット,Judicious Shot
+133,タイム・オン・ターゲット,Time On Target
+134,コンクルージョン,Concludere
+135,ソング・トゥ・ザ・デッド,Dirge for the Dead
+136,解放の歌声,Voice Unveiled
+137,コール・オブ・アビス,Call of the Abyss
+138,オラトリオ,Oratorio
+139,雷光水明,Thunder on the Water
+140,水鳥の歌詠,Swan Song
+141,狂信演舞,Dance of Zeal
+142,湧水の羽衣,Springwater Robe
+143,曼珠沙華,Crestfallen Flower
+144,霹靂閃電,Lightning Strike
+145,アナザーブレードII,Blade Swap II
+146,デュアルアーツ,Dual Arts
+147,ディプティク,Diptych
+148,アーセガル,Aurum Flow
+149,木こりのうた,Woodcutter's Song
+150,大伐断,Laughing Logger
+151,落葉焚き,Leaf Burning
+152,安らぎの木もれ日,Dappled Sunlight
+153,ホースマンズデューティ,Horseman's Duty
+154,ドラグラクト,Dragphract
+155,バタリング・ラム,Battering Ram
+156,ハイ・コマンド,High Command
+157,修験の構え,Ascetic Stance
+158,武操術,True Strike
+159,剛耐の型,Unyielding Form
+160,岩崩拳,Rock Crusher
+161,ビギニングアロー,Opening Shot
+162,アクロバットヴォレイ,Acrobatic Volley
+163,エメラルドフォグ,Emerald Fog
+164,フォックス・リターンズ,Return of the Fox
+165,錬成:キュアポーション,Alchemize Green Potion
+166,メディク,Just the Cure
+167,士気向上,A Little Pick-Me-Up
+168,鬼神の丸薬,Fury Capsule
+169,忍術,Ninjutsu
+170,風魔手裏剣,Fuma Shuriken
+171,朧,Haze
+172,焙烙玉,Home-Made Bomb
+173,画竜点睛,Finishing Touch
+174,瞑想,Self Reflection
+175,鴉雀無声,Quiet Strategy
+176,雲散霧消,Into Thin Air
+177,剣神解放,Awakening Blade
+178,剣神共鳴,Resonating Blade
+179,集気,Energize
+180,斬釘截鉄,Contrablade
+181,アーリーショット,Early Shot
+182,トライン,Triple Threat
+183,バレットリロード,Lock 'n' Load
+184,ブリッツバースト,Blitzburst
+185,天眼陣,Omnipotent Eye
+186,宿命陣,Fate Foreseen
+187,他心陣,Splitting Spirit
+188,三明,Third Eye
+189,アサシネーション,Selectively Skilled
+190,バニッシュ,Out of Sight
+191,ダブルアサシン,Retaliation Reprise
+192,ハイディング,Conceal
+193,熱烈峻厳,Drum Roll
+194,闘志の残響,Never Miss a Beat
+195,律動共振,Resonate Rhythm
+196,アトラクト・サルサ,Spellbound Salsa
+197,プリンシパル・クラシック,Classical Lead
+198,リンガリング・セント,Two to Tango
+199,ヴァリアシオン,Pas Seul
+200,アクティベート,Activate
+201,フレキシブル・アーツ,Customized Action
+202,リフューリング,Refuel
+203,アクチュエーション,Actuation
+204,ポーションリファイン,Potion Refinement
+205,ニュートリエント,Nutrients
+206,マッドバイタリティ,Maddening Vitality
+207,アドレナリンラッシュ,Adrenaline Rush
+208,エレメンタルキャスト,Runeweaving
+209,マナバースト,Mana Burst
+210,ドラゴンブレイク,Dragon Break
+211,スペルブースト,Spell Boost
+212,剣禅一如,One with the Blade
+213,大鷲返し,Eagle Reversal
+214,無明斬,No More Doubt
+215,烈刀一閃,Rending Flash
+216,グロリアス・アーツ,Glory Arts
+217,エスパーダ,Espada
+218,ドゥプレクス,Al Doble
+219,コルミロス,Colmillos
+220,ブラックチャーム,Cat's Meow
+221,テネブラエ,Black Cat's Path
+222,ムーンライト,Moonshadow
+223,スペシャルボム,Paws of Power
+224,スリーラウンドバースト,Three-Round Burst
+225,フルファイア,Open Fire
+226,フォーティチュード,Fortitude
+227,ゲリーリャ,Guerrilla Tactics
+228,エクセキュート,Execute
+229,ディヴォーション,Devotion
+230,悪夢の再演,Recursive Nightmare
+231,バーブド・ワイヤー,Barbed Wire
+232,ライジングフォース,Rising Force
+233,モッシュピット,Mosh Pit
+234,ジェット・トゥ・ジェット,Jet To Jet
+235,アンリーシュザフューリー,Unleash the Fury
